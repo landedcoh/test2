@@ -15,3 +15,6 @@ git init  - инициализирует
 **git checkout master** - перемещений к текущей версии
 
 [Geek](https://gb.ru/)
+
+## Семинар 2
+
