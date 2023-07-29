@@ -15,3 +15,7 @@ git init  - инициализирует
 **git checkout master** - перемещений к текущей версии
 
 [Geek](https://gb.ru/)
+
+
+
+* git status - команды вызывает блок инф.
